@@ -1,0 +1,31 @@
+# Ignore the target directory
+/target/
+
+# Ignore Eclipse specific files
+/.classpath
+/.project
+/.settings/
+
+# Ignore Maven specific files
+/pom.xml.tag
+/pom.xml.releaseBackup
+/pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore compiled class files
+*.class
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore user-specific files
+*.iml
+.idea/
+.vscode/
